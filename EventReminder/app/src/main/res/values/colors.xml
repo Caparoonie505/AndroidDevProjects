@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#9fc8ff</color>
+    <color name="colorPrimaryDark">#508cfa</color>
+    <color name="colorAccent">#9fc8ff</color>
+
+    <color name="colorHighPriority">#ff0000</color>
+    <color name="colorMidHighPriority">#ff8800</color>
+    <color name="colorMediumPriority">#ffff00</color>
+    <color name="colorMidLowPriority">#88ff00</color>
+    <color name="colorLowPriority">#00ff00</color>
+    <color name="colorNoPriority">#b1b1b1</color>
+    <color name="colorCompleted">#508cfa</color>
+
+    <color name="colorWhite">#fff</color>
+
+    <array name="priorityColors">
+        <item>@color/colorHighPriority</item>
+        <item>@color/colorMidHighPriority</item>
+        <item>@color/colorMediumPriority</item>
+        <item>@color/colorMidLowPriority</item>
+        <item>@color/colorLowPriority</item>
+        <item>@color/colorNoPriority</item>
+        <item>@color/colorCompleted</item>
+    </array>
+
+</resources>

@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">EventReminder</string>
+    <string name="action_settings">Settings</string>
+    <string name="lorem_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+        ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
+        aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
+        fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+        anim id est laborum.
+    </string>
+    <string name="event_header">Event Header</string>
+    <string name="no_priority">No priority</string>
+    <string name="low_priority">Low priority</string>
+    <string name="midlow_priority">Mid-Low priority</string>
+    <string name="medium_priority">Medium priority</string>
+    <string name="midhigh_priority">Mid-High priority</string>
+    <string name="high_priority">High priority</string>
+    <string name="active">ACTIVE</string>
+
+    <string name="time_15_minutes">15 Minutes</string>
+    <string name="time_30_minutes">30 Minutes</string>
+    <string name="time_45_minutes">45 Minutes</string>
+    <string name="time_60_minutes">60 Minutes</string>
+
+    <string-array name="priority_array">
+        <item>No Priority</item>
+        <item>Low Priority</item>
+        <item>Medium-Low Priority</item>
+        <item>Medium Priority</item>
+        <item>Medium-High Priority</item>
+        <item>High Priority</item>
+    </string-array>
+
+    <string-array name="time_declaration_array">
+        <item>15 Minutes</item>
+        <item>30 Minutes</item>
+        <item>45 Minutes</item>
+        <item>60 Minutes</item>
+    </string-array>
+</resources>

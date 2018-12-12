@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SecondActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/apples_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/apples_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/apricots_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/apricots_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/bananas_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/bananas_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/blueberries_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/blueberries_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/cantaloupe_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cantaloupe_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/cherries_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/cherries_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/grapefruits_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/grapefruits_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/honeydew_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/honeydew_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/lemons_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/lemons_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/mangos_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/mangos_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/oranges_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/oranges_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/peaches_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/peaches_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/pears_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/pears_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/pineapples_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/pineapples_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/plums_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/plums_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/pomegranate_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/pomegranate_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/raspberries_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/raspberries_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/strawberries_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/strawberries_item"
+                android:onClick="sendItem"/>
+
+            <Button
+                android:id="@+id/watermelon_item"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/watermelon_item"
+                android:onClick="sendItem"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</android.support.constraint.ConstraintLayout>

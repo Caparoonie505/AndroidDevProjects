@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">ShoppingListApp</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="add_item_button">Add Item</string>
+    <string name="second_activity">Item Selection List Activity</string>
+    <string name="apples_item">Apples</string>
+    <string name="apricots_item">Apricots</string>
+    <string name="bananas_item">Bananas</string>
+    <string name="blueberries_item">Blueberries</string>
+    <string name="cantaloupe_item">Cantaloupe</string>
+    <string name="cherries_item">Cherries</string>
+    <string name="grapefruits_item">Grapefruits</string>
+    <string name="honeydew_item">Honeydew</string>
+    <string name="lemons_item">Lemons</string>
+    <string name="mangos_item">Mangos</string>
+    <string name="oranges_item">Oranges</string>
+    <string name="peaches_item">Peaches</string>
+    <string name="pears_item">Pears</string>
+    <string name="pineapples_item">Pineapples</string>
+    <string name="plums_item">Plums</string>
+    <string name="pomegranate_item">Pomegranate</string>
+    <string name="raspberries_item">Raspberries</string>
+    <string name="strawberries_item">Strawberries</string>
+    <string name="watermelon_item">Watermelon</string>
+    <string name="search_store_button">Search For A Store</string>
+    <string name="search_hint_edittext">Kroger</string>
+</resources>
